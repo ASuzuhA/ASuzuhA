@@ -27,7 +27,7 @@
 <br>
 <br>
 <!--### 我的贡献 😃-->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=30&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
+    <img src="[http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F72F&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=My+contribution+%F0%9F%98%83]" 
        alt="我的贡献 😃" />
 <!--贪吃蛇-->   
     <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
